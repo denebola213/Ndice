@@ -1,5 +1,3 @@
 /libsodium.dll
-/config.yml
-/src/modules/iryoku.csv
 /src/modules/school.rb
 /src/commands/kyuko.rb
