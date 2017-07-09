@@ -1,1 +1,3 @@
 libsodium.dll
+config.yml
+src/modules/iryoku.csv
