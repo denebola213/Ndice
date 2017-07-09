@@ -1,0 +1,1638 @@
+- id: 1
+  vol: 1
+  episode: PR
+  title: 森の中で・b
+  subtitle: Lost in the Forest･b
+  hero: キノ
+  notes: 
+- id: 2
+  vol: 1
+  episode: 1
+  title: 人の痛みが分かる国
+  subtitle: I See You.
+  hero: キノ
+  notes: 
+- id: 3
+  vol: 1
+  episode: 2
+  title: 多数決の国
+  subtitle: Ourselfish
+  hero: キノ
+  notes: 
+- id: 4
+  vol: 1
+  episode: 3
+  title: レールの上の三人の男
+  subtitle: On the Rails
+  hero: キノ
+  notes: 
+- id: 5
+  vol: 1
+  episode: 4
+  title: コロシアム
+  subtitle: Avengers
+  hero: キノ
+  notes: シズが登場
+- id: 6
+  vol: 1
+  episode: 5
+  title: 大人の国
+  subtitle: Natural Rights
+  hero: 
+  notes: キノが旅人になったきっかけの話
+- id: 7
+  vol: 1
+  episode: 6
+  title: 平和な国
+  subtitle: Mother's Love
+  hero: キノ
+  notes: 
+- id: 8
+  vol: 1
+  episode: EP
+  title: 森の中で・a
+  subtitle: Lost in the Forest･a
+  hero: キノ
+  notes: 
+- id: 9
+  vol: 2
+  episode: 口絵
+  title: 狙撃兵の話
+  subtitle: Fatalism
+  hero: 師匠
+  notes: 
+- id: 10
+  vol: 2
+  episode: PR
+  title: 砂漠の真ん中で・b
+  subtitle: Beginner's Luck・b
+  hero: キノ
+  notes: 
+- id: 11
+  vol: 2
+  episode: 1
+  title: 人を喰った話
+  subtitle: I Want to Live.
+  hero: キノ
+  notes: 
+- id: 12
+  vol: 2
+  episode: 2
+  title: 過保護
+  subtitle: Do You Need It?
+  hero: キノ
+  notes: 
+- id: 13
+  vol: 2
+  episode: 3
+  title: 魔法使いの国
+  subtitle: Potentials of Magic
+  hero: キノ
+  notes: 
+- id: 14
+  vol: 2
+  episode: 4
+  title: 自由報道の国
+  subtitle: Believers
+  hero: キノ
+  notes: 
+- id: 15
+  vol: 2
+  episode: 5
+  title: 絵の話
+  subtitle: Happiness
+  hero: キノ
+  notes: 
+- id: 16
+  vol: 2
+  episode: 6
+  title: 帰郷
+  subtitle: '"She" is Waiting For You.'
+  hero: キノ
+  notes: 
+- id: 17
+  vol: 2
+  episode: 7
+  title: 本の国
+  subtitle: Nothing Is Written!
+  hero: キノ
+  notes: 
+- id: 18
+  vol: 2
+  episode: 8
+  title: 優しい国
+  subtitle: Tomorrow Never Comes.
+  hero: キノ
+  notes: 
+- id: 19
+  vol: 2
+  episode: EP
+  title: 砂漠の真ん中で・a
+  subtitle: Beginner's Luck・a
+  hero: キノ
+  notes: 
+- id: 20
+  vol: 2
+  episode: '-'
+  title: 続・絵の話
+  subtitle: Anonymous Pictures
+  hero: シズ
+  notes: 
+- id: 21
+  vol: 3
+  episode: 口絵
+  title: 愛と平和の国
+  subtitle: Power Pay
+  hero: シズ
+  notes: 
+- id: 22
+  vol: 3
+  episode: PR
+  title: 雲の中で・b
+  subtitle: Blinder･b
+  hero: キノ
+  notes: 
+- id: 23
+  vol: 3
+  episode: 1
+  title: 城壁のない国
+  subtitle: Designated Area
+  hero: キノ
+  notes: 
+- id: 24
+  vol: 3
+  episode: 2
+  title: 説得力
+  subtitle: Persuader
+  hero: キノ
+  notes: 
+- id: 25
+  vol: 3
+  episode: 3
+  title: 同じ顔の国
+  subtitle: HACCP
+  hero: キノ
+  notes: 
+- id: 26
+  vol: 3
+  episode: 4
+  title: 機械人形の話
+  subtitle: One-way Misson
+  hero: キノ
+  notes: 
+- id: 27
+  vol: 3
+  episode: 5
+  title: 差別を許さない国
+  subtitle: True Blue Sky
+  hero: キノ
+  notes: 
+- id: 28
+  vol: 3
+  episode: 6
+  title: 終わってしまった話
+  subtitle: Ten Years After
+  hero: キノ
+  notes: 
+- id: 29
+  vol: 3
+  episode: EP
+  title: 雲の中で･a
+  subtitle: Blinder･a
+  hero: キノ
+  notes: 
+- id: 30
+  vol: 4
+  episode: PR
+  title: 紅い海の真ん中で・b
+  subtitle: Blooming Prairie･b
+  hero: キノ
+  notes: 
+- id: 31
+  vol: 4
+  episode: 1
+  title: 像のある国
+  subtitle: Angel?
+  hero: キノ
+  notes: 
+- id: 32
+  vol: 4
+  episode: 2
+  title: ×××××
+  subtitle: Solo
+  hero: キノ
+  notes: 
+- id: 33
+  vol: 4
+  episode: 3
+  title: 二人の国
+  subtitle: Even a Dog doesn't Eat
+  hero: キノ
+  notes: 
+- id: 34
+  vol: 4
+  episode: 4
+  title: 伝統
+  subtitle: Tricksters
+  hero: キノ
+  notes: 
+- id: 35
+  vol: 4
+  episode: 5
+  title: 仕事をしなくていい国
+  subtitle: Workable
+  hero: キノ
+  notes: 
+- id: 36
+  vol: 4
+  episode: 6
+  title: 分かれている国
+  subtitle: World Divided
+  hero: キノ
+  notes: 
+- id: 37
+  vol: 4
+  episode: 7
+  title: ぶどう
+  subtitle: On Duty
+  hero: キノ
+  notes: 
+- id: 38
+  vol: 4
+  episode: 8
+  title: 認めている国
+  subtitle: A Vote
+  hero: キノ
+  notes: 
+- id: 39
+  vol: 4
+  episode: 9
+  title: たかられた話
+  subtitle: Bloodsuckers
+  hero: シズ
+  notes: 
+- id: 40
+  vol: 4
+  episode: 10
+  title: 橋の国
+  subtitle: Their Line
+  hero: キノ
+  notes: 
+- id: 41
+  vol: 4
+  episode: 11
+  title: 塔の国
+  subtitle: Free Lance
+  hero: キノ
+  notes: 
+- id: 42
+  vol: 4
+  episode: EP
+  title: 紅い海の真ん中で・a
+  subtitle: Blooming Prairie･a
+  hero: キノ
+  notes: 
+- id: 43
+  vol: 5
+  episode: PR
+  title: 夕日の中で・b
+  subtitle: Will･b
+  hero: キノ
+  notes: 
+- id: 44
+  vol: 5
+  episode: 1
+  title: あの時のこと
+  subtitle: Blue Rose
+  hero: キノ
+  notes: 
+- id: 45
+  vol: 5
+  episode: 2
+  title: 人を殺すことができる国
+  subtitle: Jungle's Rule
+  hero: キノ
+  notes: 
+- id: 46
+  vol: 5
+  episode: 3
+  title: 店の話
+  subtitle: For Sale
+  hero: キノ
+  notes: 
+- id: 47
+  vol: 5
+  episode: 4
+  title: 英雄達の国
+  subtitle: No Hero
+  hero: キノ
+  notes: 
+- id: 48
+  vol: 5
+  episode: 5
+  title: 英雄達の国
+  subtitle: Seven Heroes
+  hero: キノ
+  notes: 前話の続き
+- id: 49
+  vol: 5
+  episode: 6
+  title: のどかな国
+  subtitle: Jog Trot
+  hero: シズ
+  notes: 
+- id: 50
+  vol: 5
+  episode: 7
+  title: 予言の国
+  subtitle: We NO the Future.
+  hero: キノ
+  notes: 
+- id: 51
+  vol: 5
+  episode: 8
+  title: 用心棒
+  subtitle: Stand-bys
+  hero: 師匠
+  notes: 
+- id: 52
+  vol: 5
+  episode: 9
+  title: 塩の平原の話
+  subtitle: Family Business
+  hero: キノ
+  notes: 
+- id: 53
+  vol: 5
+  episode: 10
+  title: 病気の国
+  subtitle: For You
+  hero: キノ
+  notes: 
+- id: 54
+  vol: 5
+  episode: EP
+  title: 夕日の中で・a
+  subtitle: Will･a
+  hero: キノ
+  notes: 
+- id: 55
+  vol: 6
+  episode: 口絵
+  title: 入れない国
+  subtitle: Reasonable
+  hero: キノ
+  notes: 
+- id: 56
+  vol: 6
+  episode: 口絵
+  title: 中立な話
+  subtitle: All Alone
+  hero: 
+  notes: 
+- id: 57
+  vol: 6
+  episode: 口絵
+  title: 戦車の話
+  subtitle: Life Goes On.
+  hero: キノ
+  notes: 
+- id: 58
+  vol: 6
+  episode: PR
+  title: 誓い・b
+  subtitle: a Kitchen Knife・b
+  hero: キノ
+  notes: 
+- id: 59
+  vol: 6
+  episode: 1
+  title: 彼女の旅
+  subtitle: Chances
+  hero: キノ
+  notes: 
+- id: 60
+  vol: 6
+  episode: 2
+  title: 彼女の旅
+  subtitle: Love and Bullets
+  hero: キノ
+  notes: 
+- id: 61
+  vol: 6
+  episode: 3
+  title: 花火の国
+  subtitle: Fire at Will!
+  hero: キノ
+  notes: 
+- id: 62
+  vol: 6
+  episode: 4
+  title: 長のいる国
+  subtitle: I Need You
+  hero: 師匠
+  notes: 
+- id: 63
+  vol: 6
+  episode: 5
+  title: 忘れない国
+  subtitle: Not Again
+  hero: キノ
+  notes: 
+- id: 64
+  vol: 6
+  episode: 6
+  title: 安全な国
+  subtitle: For His Safety
+  hero: キノ
+  notes: 
+- id: 65
+  vol: 6
+  episode: 7
+  title: 旅の途中
+  subtitle: Intermission
+  hero: キノ
+  notes: 
+- id: 66
+  vol: 6
+  episode: 8
+  title: 祝福のつもり
+  subtitle: How Much Do I Pay For?
+  hero: シズ
+  notes: 
+- id: 67
+  vol: 6
+  episode: EP
+  title: 誓い・a
+  subtitle: a Kitchen Knife・a
+  hero: キノ
+  notes: 
+- id: 68
+  vol: 7
+  episode: PR
+  title: 何かをするために・b
+  subtitle: life goes on.
+  hero: キノ
+  notes: 
+- id: 69
+  vol: 7
+  episode: 1
+  title: 迷惑な国
+  subtitle: Leave Only Footsteps!
+  hero: キノ
+  notes: 
+- id: 70
+  vol: 7
+  episode: 2
+  title: ある愛の国
+  subtitle: Stray King
+  hero: 師匠
+  notes: 
+- id: 71
+  vol: 7
+  episode: 3
+  title: 川原にて
+  subtitle: Intermisson
+  hero: シズ
+  notes: 
+- id: 72
+  vol: 7
+  episode: 4
+  title: 冬の話
+  subtitle: D
+  hero: キノ
+  notes: 
+- id: 73
+  vol: 7
+  episode: 5
+  title: 森の中のお茶会の話
+  subtitle: Thank You
+  hero: 師匠
+  notes: 
+- id: 74
+  vol: 7
+  episode: 6
+  title: 嘘つき達の国
+  subtitle: Waiting For You
+  hero: キノ
+  notes: 
+- id: 75
+  vol: 7
+  episode: EP
+  title: 何かをするために・a
+  subtitle: life goes on.
+  hero: キノ
+  notes: 
+- id: 76
+  vol: 8
+  episode: 口絵
+  title: 道の国
+  subtitle: Go West!
+  hero: キノ
+  notes: 
+- id: 77
+  vol: 8
+  episode: 口絵
+  title: 悪いことはできない国
+  subtitle: Black box
+  hero: キノ
+  notes: 
+- id: 78
+  vol: 8
+  episode: PR
+  title: 渚にて 旅の始まりと終わり
+  subtitle: On the Beach･b
+  hero: シズ
+  notes: タイトルは違うが「船の国」の続き
+- id: 79
+  vol: 8
+  episode: 1
+  title: 歴史のある国
+  subtitle: Don't Look Back!
+  hero: 師匠
+  notes: 
+- id: 80
+  vol: 8
+  episode: 2
+  title: 愛のある話
+  subtitle: Dinner Party
+  hero: キノ
+  notes: 
+- id: 81
+  vol: 8
+  episode: 3
+  title: ラジオな国
+  subtitle: Entertainer
+  hero: キノ
+  notes: 
+- id: 82
+  vol: 8
+  episode: 4
+  title: 救われた国
+  subtitle: Confession
+  hero: キノ
+  notes: 
+- id: 83
+  vol: 8
+  episode: EP
+  title: 船の国
+  subtitle: On the Beach･a
+  hero: シズ
+  notes: ティーが登場。中編
+- id: 84
+  vol: 9
+  episode: 口絵
+  title: なってないひとたち
+  subtitle: Traveler's Tale
+  hero: 
+  notes: 
+- id: 85
+  vol: 9
+  episode: 口絵
+  title: 城壁の話
+  subtitle: Sweet Home
+  hero: キノ
+  notes: 
+- id: 86
+  vol: 9
+  episode: PR
+  title: 悲しみの中で
+  subtitle: Yearning･b
+  hero: キノ
+  notes: 
+- id: 87
+  vol: 9
+  episode: 1
+  title: 記録の国
+  subtitle: His Record
+  hero: キノ
+  notes: 
+- id: 88
+  vol: 9
+  episode: 2
+  title: いい人達の夕べ
+  subtitle: Innocence
+  hero: 師匠
+  notes: 
+- id: 89
+  vol: 9
+  episode: 3
+  title: 作家の旅
+  subtitle: Editor's Travels
+  hero: キノ
+  notes: 
+- id: 90
+  vol: 9
+  episode: 4
+  title: 電波の国
+  subtitle: Not Guilty
+  hero: シズ
+  notes: 
+- id: 91
+  vol: 9
+  episode: 5
+  title: 日記の国
+  subtitle: Historians
+  hero: キノ
+  notes: 
+- id: 92
+  vol: 9
+  episode: 6
+  title: 自然保護の国
+  subtitle: Let It Be!
+  hero: 師匠
+  notes: 
+- id: 93
+  vol: 9
+  episode: 7
+  title: 商人の国
+  subtitle: Professionals
+  hero: キノ
+  notes: 
+- id: 94
+  vol: 9
+  episode: 8
+  title: 殺す国
+  subtitle: Clearance
+  hero: 師匠
+  notes: 
+- id: 95
+  vol: 9
+  episode: 9
+  title: 続･戦車の話
+  subtitle: Spirit
+  hero: 
+  notes: 6巻「戦車の話」の続き
+- id: 96
+  vol: 9
+  episode: 10
+  title: むかしの話
+  subtitle: Tea Talks
+  hero: シズ
+  notes: 
+- id: 97
+  vol: 9
+  episode: 11
+  title: 説得力II
+  subtitle: Persuader II
+  hero: キノ
+  notes: 
+- id: 98
+  vol: 9
+  episode: EP
+  title: 悲しみの中で
+  subtitle: Yearning･a
+  hero: キノ
+  notes: 
+- id: 99
+  vol: 10
+  episode: 口絵
+  title: ペットの国
+  subtitle: apPETite
+  hero: キノ
+  notes: 
+- id: 100
+  vol: 10
+  episode: 口絵
+  title: ティーの願い
+  subtitle: Get Real!
+  hero: シズ
+  notes: 
+- id: 101
+  vol: 10
+  episode: PR
+  title: 在る男の旅･b
+  subtitle: Life is a Journey, and Vice Versa.･b
+  hero: キノ
+  notes: 
+- id: 102
+  vol: 10
+  episode: 1
+  title: インタビューの国
+  subtitle: Out of the Question
+  hero: キノ
+  notes: 
+- id: 103
+  vol: 10
+  episode: 2
+  title: ホラ吹き達の話
+  subtitle: Fantasy
+  hero: キノ
+  notes: 
+- id: 104
+  vol: 10
+  episode: 3
+  title: 保護の国
+  subtitle: Meritocracy
+  hero: 師匠
+  notes: 
+- id: 105
+  vol: 10
+  episode: 4
+  title: 電柱の国
+  subtitle: Transmission
+  hero: キノ
+  notes: 
+- id: 106
+  vol: 10
+  episode: 5
+  title: こんなところにある国
+  subtitle: Preface
+  hero: 
+  notes: 
+- id: 107
+  vol: 10
+  episode: 6
+  title: ティーの一日
+  subtitle: a Day in the Girl's Life
+  hero: シズ
+  notes: 
+- id: 108
+  vol: 10
+  episode: 7
+  title: 歌姫のいる国
+  subtitle: Unsung Divas
+  hero: キノ
+  notes: 中編
+- id: 109
+  vol: 10
+  episode: EP
+  title: 在る男の旅･a
+  subtitle: Life is a Journey, and Vice Versa.･a
+  hero: キノ
+  notes: 
+- id: 110
+  vol: 11
+  episode: 口絵
+  title: 子供の国
+  subtitle: Burn Up
+  hero: キノ
+  notes: 
+- id: 111
+  vol: 11
+  episode: 口絵
+  title: お花畑の国
+  subtitle: Flower Arrangement
+  hero: シズ
+  notes: 
+- id: 112
+  vol: 11
+  episode: PR
+  title: カメラの国･b
+  subtitle: Picturesque･b
+  hero: キノ
+  notes: 
+- id: 113
+  vol: 11
+  episode: 1
+  title: つながっている国
+  subtitle: Stand Alone
+  hero: キノ
+  notes: 
+- id: 114
+  vol: 11
+  episode: 2
+  title: 失望の国
+  subtitle: Hope You
+  hero: キノ
+  notes: 
+- id: 115
+  vol: 11
+  episode: 3
+  title: アジン（略）の国
+  subtitle: With You
+  hero: 師匠
+  notes: 
+- id: 116
+  vol: 11
+  episode: 4
+  title: 国境のない国
+  subtitle: Asylum
+  hero: シズ
+  notes: 
+- id: 117
+  vol: 11
+  episode: 5
+  title: 学校の国
+  subtitle: Assignment
+  hero: キノ
+  notes: 
+- id: 118
+  vol: 11
+  episode: 6
+  title: 道の話
+  subtitle: Passage
+  hero: キノ
+  notes: 
+- id: 119
+  vol: 11
+  episode: 7
+  title: 戦う人達の話
+  subtitle: Reasonable
+  hero: キノ
+  notes: 
+- id: 120
+  vol: 11
+  episode: EP
+  title: カメラの国･a
+  subtitle: Picturesque･a
+  hero: キノ
+  notes: 
+- id: 121
+  vol: 12
+  episode: カバー裏
+  title: 寄付の国
+  subtitle: How's Tricks?
+  hero: キノ
+  notes: 
+- id: 122
+  vol: 12
+  episode: 口絵
+  title: 山賊達の話
+  subtitle: Can You Imagine!
+  hero: シズ
+  notes: 
+- id: 123
+  vol: 12
+  episode: 口絵
+  title: パクリの国
+  subtitle: I Have Ever Seen Before.
+  hero: キノ
+  notes: 
+- id: 124
+  vol: 12
+  episode: 口絵
+  title: 願い
+  subtitle: 
+  hero: キノ
+  notes: サブタイトル無し
+- id: 125
+  vol: 12
+  episode: PR
+  title: 幸せの中で･b
+  subtitle: Birth･b
+  hero: キノ
+  notes: 
+- id: 126
+  vol: 12
+  episode: 1
+  title: 正義の国
+  subtitle: Idiots
+  hero: キノ
+  notes: 
+- id: 127
+  vol: 12
+  episode: 2
+  title: 悪魔が来た国
+  subtitle: Take of the Devil.
+  hero: キノ
+  notes: 
+- id: 128
+  vol: 12
+  episode: 3
+  title: 求める国
+  subtitle: Common Sense
+  hero: シズ
+  notes: 
+- id: 129
+  vol: 12
+  episode: 4
+  title: 日時計の国
+  subtitle: Counter Strike
+  hero: キノ
+  notes: 
+- id: 130
+  vol: 12
+  episode: 5
+  title: 努力する国
+  subtitle: Passage2
+  hero: 師匠
+  notes: 
+- id: 131
+  vol: 12
+  episode: 6
+  title: 続・寄付の話
+  subtitle: How's Tricks?
+  hero: キノ
+  notes: 「寄付の国」の続き
+- id: 132
+  vol: 12
+  episode: 7
+  title: 手紙の話
+  subtitle: the Weak Link
+  hero: シズ
+  notes: 
+- id: 133
+  vol: 12
+  episode: 8
+  title: 賭の話
+  subtitle: Which is Which.
+  hero: キノ
+  notes: 
+- id: 134
+  vol: 12
+  episode: 9
+  title: 徳を積む国
+  subtitle: Serious Killer
+  hero: キノ
+  notes: 
+- id: 135
+  vol: 12
+  episode: 10
+  title: 雲の前で
+  subtitle: Eye-opener
+  hero: フォト
+  notes: 3巻「雲の中で」の直前の話
+- id: 136
+  vol: 12
+  episode: EP
+  title: 幸せの中で･a
+  subtitle: Birth･a
+  hero: キノ
+  notes: 
+- id: 137
+  vol: 13
+  episode: 口絵
+  title: 嫌いな国
+  subtitle: Abandon Ship
+  hero: シズ
+  notes: 
+- id: 138
+  vol: 13
+  episode: 口絵
+  title: 凄い国
+  subtitle: Nothing Special
+  hero: キノ
+  notes: 
+- id: 139
+  vol: 13
+  episode: 口絵
+  title: 生きている人達の話
+  subtitle: You Should Be So Lucky.
+  hero: 師匠
+  notes: 
+- id: 140
+  vol: 13
+  episode: PR
+  title: この世界の話･b
+  subtitle: It Happens.･b
+  hero: キノ
+  notes: 
+- id: 141
+  vol: 13
+  episode: 1
+  title: 昔の話
+  subtitle: Choice
+  hero: 師匠
+  notes: 
+- id: 142
+  vol: 13
+  episode: 2
+  title: 家族の国
+  subtitle: Divorce
+  hero: キノ
+  notes: 
+- id: 143
+  vol: 13
+  episode: 3
+  title: 違法な国
+  subtitle: Just Imagine It!
+  hero: キノ
+  notes: 
+- id: 144
+  vol: 13
+  episode: 4
+  title: 旅人の国
+  subtitle: Last Will
+  hero: シズ
+  notes: 
+- id: 145
+  vol: 13
+  episode: 5
+  title: 必要な国
+  subtitle: Entertainer
+  hero: キノ
+  notes: 
+- id: 146
+  vol: 13
+  episode: EP
+  title: この世界の話･a
+  subtitle: It Happens.･a
+  hero: キノ
+  notes: 
+- id: 147
+  vol: 13
+  episode: SP[13]
+  title: いろいろな話
+  subtitle: a Beautiful Dreamer
+  hero: シズ
+  notes: 
+- id: 148
+  vol: 14
+  episode: PR
+  title: 朝日の中で･b
+  subtitle: the Dawn･b
+  hero: キノ
+  notes: 
+- id: 149
+  vol: 14
+  episode: 1
+  title: 情操教育の国
+  subtitle: Do What We say!
+  hero: 師匠
+  notes: 
+- id: 150
+  vol: 14
+  episode: 2
+  title: 呟きの国
+  subtitle: My Daily Life
+  hero: キノ
+  notes: 
+- id: 151
+  vol: 14
+  episode: 3
+  title: 規制の国
+  subtitle: Unreal Young Man
+  hero: キノ
+  notes: 
+- id: 152
+  vol: 14
+  episode: 4
+  title: 開運の国
+  subtitle: The Fifth "C", Cozenage
+  hero: 師匠
+  notes: 
+- id: 153
+  vol: 14
+  episode: 5
+  title: 遺作の国
+  subtitle: Write or Die
+  hero: キノ
+  notes: 
+- id: 154
+  vol: 14
+  episode: 6
+  title: 亡国の国
+  subtitle: Self-destruction
+  hero: シズ
+  notes: 
+- id: 155
+  vol: 14
+  episode: 7
+  title: 結婚の国
+  subtitle: Testament
+  hero: キノ
+  notes: 
+- id: 156
+  vol: 14
+  episode: 8
+  title: 寄生虫の国
+  subtitle: Cure
+  hero: キノ
+  notes: 
+- id: 157
+  vol: 14
+  episode: 9
+  title: 差別をする国
+  subtitle: We Are NOT Like Us.
+  hero: キノ
+  notes: 
+- id: 158
+  vol: 14
+  episode: 10
+  title: 正しい国
+  subtitle: WAR=We Are Right!
+  hero: キノ
+  notes: 
+- id: 159
+  vol: 14
+  episode: 11
+  title: 卑怯者の国
+  subtitle: Toss-up
+  hero: キノ
+  notes: PS2ゲーム版同梱小説の加筆・修正版
+- id: 160
+  vol: 14
+  episode: EP
+  title: 朝日の中で･a
+  subtitle: the Dawn･a
+  hero: キノ
+  notes: 
+- id: 161
+  vol: 15
+  episode: 口絵
+  title: 見つけてしまった国
+  subtitle: Eureka!
+  hero: 
+  notes: 
+- id: 162
+  vol: 15
+  episode: 口絵
+  title: 白い国
+  subtitle: Taste!
+  hero: キノ
+  notes: 
+- id: 163
+  vol: 15
+  episode: PR
+  title: 戦って死ぬということ･b
+  subtitle: Order!･b
+  hero: シズ
+  notes: 
+- id: 164
+  vol: 15
+  episode: 1
+  title: ケダモノの国
+  subtitle: Standing Beast
+  hero: 師匠
+  notes: 
+- id: 165
+  vol: 15
+  episode: 2
+  title: マニアの国
+  subtitle: What I Want & Why I Want
+  hero: キノ
+  notes: 
+- id: 166
+  vol: 15
+  episode: 3
+  title: 過去のある国
+  subtitle: What We Have Taught.
+  hero: キノ
+  notes: 
+- id: 167
+  vol: 15
+  episode: 4
+  title: フォトの日々
+  subtitle: the Beautiful Moment
+  hero: フォト
+  notes: 3巻「雲の中で」の後の話
+- id: 168
+  vol: 15
+  episode: 5
+  title: ジャーナリストの国
+  subtitle: How to Be a Liar
+  hero: キノ
+  notes: 
+- id: 169
+  vol: 15
+  episode: 6
+  title: 犯人のいる国
+  subtitle: He Had Done It.
+  hero: キノ
+  notes: 
+- id: 170
+  vol: 15
+  episode: EP
+  title: 戦って死ぬということ･a
+  subtitle: Order!･a
+  hero: シズ
+  notes: 
+- id: 171
+  vol: 16
+  episode: 口絵
+  title: 昼と夜がある国
+  subtitle: Counterclockwise
+  hero: キノ
+  notes: 
+- id: 172
+  vol: 16
+  episode: 口絵
+  title: 転がっている国
+  subtitle: Take Free If You Can!
+  hero: キノ
+  notes: 
+- id: 173
+  vol: 16
+  episode: PR
+  title: 恋文の国･b
+  subtitle: Confession･b
+  hero: シズ
+  notes: 
+- id: 174
+  vol: 16
+  episode: 1
+  title: 死人達の国
+  subtitle: Spirits of the Dead
+  hero: キノ
+  notes: 
+- id: 175
+  vol: 16
+  episode: 2
+  title: 育てる国
+  subtitle: Stand by me!
+  hero: シズ
+  notes: 
+- id: 176
+  vol: 16
+  episode: 3
+  title: 飲酒運転の国
+  subtitle: Let's Play the Game!
+  hero: 師匠
+  notes: 
+- id: 177
+  vol: 16
+  episode: 4
+  title: 血液型の国
+  subtitle: Blood Typo
+  hero: キノ
+  notes: 
+- id: 178
+  vol: 16
+  episode: EP
+  title: 恋文の国･a
+  subtitle: Confession･a
+  hero: キノ
+  notes: 中編
+- id: 179
+  vol: 16
+  episode: F
+  title: 見えない真実
+  subtitle: Family Picture
+  hero: フォト
+  notes: 
+- id: 180
+  vol: 16
+  episode: F
+  title: 残されたもの
+  subtitle: Return
+  hero: フォト
+  notes: 
+- id: 181
+  vol: 17
+  episode: 口絵
+  title: ファッションの国
+  subtitle: Fine Feather Make Fine Birds.
+  hero: 
+  notes: 
+- id: 182
+  vol: 17
+  episode: 口絵PR
+  title: 渡す国･b
+  subtitle: Messengers･b
+  hero: シズ
+  notes: 
+- id: 183
+  vol: 17
+  episode: 口絵
+  title: 遊んでいる国
+  subtitle: Invention
+  hero: 師匠
+  notes: 
+- id: 184
+  vol: 17
+  episode: 1
+  title: 旅人達の話
+  subtitle: Kino & Hermes
+  hero: キノ
+  notes: 新聞連載
+- id: 185
+  vol: 17
+  episode: 2
+  title: 自然破壊の国
+  subtitle: Human Nature
+  hero: キノ
+  notes: 
+- id: 186
+  vol: 17
+  episode: 3
+  title: 時計の国
+  subtitle: Memento Mori
+  hero: キノ
+  notes: 新聞連載
+- id: 187
+  vol: 17
+  episode: 4
+  title: 左利きの国
+  subtitle: Do the RIGHT Thing!
+  hero: キノ
+  notes: 新聞連載
+- id: 188
+  vol: 17
+  episode: 5
+  title: 割れた国
+  subtitle: Trigger Happy
+  hero: キノ
+  notes: 新聞連載
+- id: 189
+  vol: 17
+  episode: 6
+  title: 貧乏旅行の国
+  subtitle: Trouble Writer
+  hero: キノ
+  notes: 新聞連載
+- id: 190
+  vol: 17
+  episode: 7
+  title: 楽園の話
+  subtitle: Exile
+  hero: 師匠
+  notes: 
+- id: 191
+  vol: 17
+  episode: 8
+  title: 恋愛禁止の国
+  subtitle: the Prohibition
+  hero: キノ
+  notes: 
+- id: 192
+  vol: 17
+  episode: 9
+  title: 料理の国
+  subtitle: Original
+  hero: キノ
+  notes: 新聞連載
+- id: 193
+  vol: 17
+  episode: 10
+  title: 広告の国
+  subtitle: Counter Measure
+  hero: キノ
+  notes: 新聞連載
+- id: 194
+  vol: 17
+  episode: 11
+  title: 鉄道の国
+  subtitle: Missing Link
+  hero: キノ
+  notes: 新聞連載
+- id: 195
+  vol: 17
+  episode: 12
+  title: 旅の終わり
+  subtitle: Kino's Nap
+  hero: キノ
+  notes: 新聞連載
+- id: 196
+  vol: 17
+  episode: 13
+  title: 神のいない国
+  subtitle: Let's Get Hermes!
+  hero: キノ
+  notes: 
+- id: 197
+  vol: 17
+  episode: 14
+  title: 私達の国
+  subtitle: Welcome!
+  hero: キノ
+  notes: 
+- id: 198
+  vol: 17
+  episode: EP
+  title: 渡す国･a
+  subtitle: Messengers･a
+  hero: シズ
+  notes: 
+- id: 199
+  vol: 18
+  episode: 口絵
+  title: 牛の国
+  subtitle: Fountain.
+  hero: キノ
+  notes: 「止まった国」の後の話
+- id: 200
+  vol: 18
+  episode: 口絵
+  title: 草原の話
+  subtitle: Ringer
+  hero: キノ
+  notes: 
+- id: 201
+  vol: 18
+  episode: PR
+  title: キノの旅の国･b
+  subtitle: Road Show･b
+  hero: キノ
+  notes: 
+- id: 202
+  vol: 18
+  episode: 1
+  title: スポーツの国
+  subtitle: Winners and Losers
+  hero: キノ
+  notes: 
+- id: 203
+  vol: 18
+  episode: 2
+  title: 止まった国
+  subtitle: From the Cradle to the Cradle
+  hero: 師匠
+  notes: 
+- id: 204
+  vol: 18
+  episode: 3
+  title: 税金の国
+  subtitle: Supply and Demand
+  hero: キノ
+  notes: 
+- id: 205
+  vol: 18
+  episode: 4
+  title: 主食の国
+  subtitle: Staple Diet
+  hero: キノ
+  notes: 
+- id: 206
+  vol: 18
+  episode: 5
+  title: チョコレートの話
+  subtitle: Gift
+  hero: キノ
+  notes: 
+- id: 207
+  vol: 18
+  episode: 6
+  title: 遺産の国
+  subtitle: Protector
+  hero: シズ
+  notes: 
+- id: 208
+  vol: 18
+  episode: 7
+  title: 復讐の国
+  subtitle: Savior
+  hero: 
+  notes: 
+- id: 209
+  vol: 18
+  episode: 8
+  title: お金の国
+  subtitle: Easy Money
+  hero: 
+  notes: 
+- id: 210
+  vol: 18
+  episode: 9
+  title: 私の戦争
+  subtitle: Lone Sniper
+  hero: キノ
+  notes: 
+- id: 211
+  vol: 18
+  episode: EP
+  title: キノの旅の国･a
+  subtitle: Road Show･a
+  hero: キノ
+  notes: 
+- id: 212
+  vol: 19
+  episode: 口絵
+  title: 幸せの話
+  subtitle: Blue Birds
+  hero: キノ
+  notes: 
+- id: 213
+  vol: 19
+  episode: 口絵
+  title: 首輪の国
+  subtitle: What We Need.
+  hero: シズ
+  notes: 
+- id: 214
+  vol: 19
+  episode: PR
+  title: 捨てる国･b
+  subtitle: Till You Drop･b
+  hero: 師匠
+  notes: 
+- id: 215
+  vol: 19
+  episode: 1
+  title: 美しい記憶の国
+  subtitle: Beautiful Memories
+  hero: キノ
+  notes: 
+- id: 216
+  vol: 19
+  episode: 2
+  title: 天才の国
+  subtitle: Finding a Geninus
+  hero: キノ
+  notes: 
+- id: 217
+  vol: 19
+  episode: 3
+  title: 秀才の国
+  subtitle: Finding an Error
+  hero: キノ
+  notes: 
+- id: 218
+  vol: 19
+  episode: 4
+  title: 守る国
+  subtitle: Out of His Tree
+  hero: シズ
+  notes: 
+- id: 219
+  vol: 19
+  episode: 5
+  title: 戦えない話
+  subtitle: Wise Men's Forecast
+  hero: キノ
+  notes: 
+- id: 220
+  vol: 19
+  episode: 6
+  title: 贋物の国
+  subtitle: Trade Make
+  hero: キノ
+  notes: 
+- id: 221
+  vol: 19
+  episode: 7
+  title: 助けに来た国
+  subtitle: Under the Rainvow
+  hero: フォト
+  notes: 
+- id: 222
+  vol: 19
+  episode: 8
+  title: 撃ちまくれる国
+  subtitle: Busters
+  hero: キノ
+  notes: 
+- id: 223
+  vol: 19
+  episode: EP
+  title: 捨てる国･a
+  subtitle: Till You Drop･a
+  hero: 師匠
+  notes: 
+- id: 224
+  vol: 20
+  episode: PR
+  title: 旅の話･b
+  subtitle: Around the World･b
+  hero: キノ
+  notes: 
+- id: 225
+  vol: 20
+  episode: 口絵
+  title: 海のない国
+  subtitle: Can You Sea Me?
+  hero: キノ
+  notes: 
+- id: 226
+  vol: 20
+  episode: 1
+  title: 人間の国
+  subtitle: the Ark
+  hero: シズ
+  notes: 
+- id: 227
+  vol: 20
+  episode: 2
+  title: 仲の悪い国
+  subtitle: I Need You.
+  hero: 
+  notes: 
+- id: 228
+  vol: 20
+  episode: 3
+  title: 拘らない国
+  subtitle: Love Them All!
+  hero: キノ
+  notes: 
+- id: 229
+  vol: 20
+  episode: 4
+  title: 宝探しの話
+  subtitle: Generic
+  hero: キノ
+  notes: 
+- id: 230
+  vol: 20
+  episode: 5
+  title: 宝探しの話
+  subtitle: Genocide
+  hero: 師匠
+  notes: 
+- id: 231
+  vol: 20
+  episode: 6
+  title: 夫婦の話
+  subtitle: Taken
+  hero: フォト
+  notes: 
+- id: 232
+  vol: 20
+  episode: 7
+  title: ターニングポイント
+  subtitle: Turning Point
+  hero: 
+  notes: 
+- id: 233
+  vol: 20
+  episode: 8
+  title: 羊たちの草原
+  subtitle: Stray Army
+  hero: キノ
+  notes: 
+- id: 234
+  vol: 20
+  episode: EP
+  title: 旅の話･a
+  subtitle: Around the World･a
+  hero: キノ
+  notes: 
