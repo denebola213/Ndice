@@ -47,6 +47,13 @@ module Ndice
         event << "/team (人数)"
         event << "人数制限を設け、人数を満たした段階でチーム分けを行います。"
         event << "例:/team 6"
+
+      when "kyuko" then
+		    event << "その日の休講情報を出力します。"
+        event << "/kyuko (option)"
+        event << "オプションなし : 今日と明日の情報"
+        event << "week : 一週間の情報"
+        event << "year/month/day : 指定日の情報"
         
         
       else
