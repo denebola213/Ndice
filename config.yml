@@ -1,8 +1,8 @@
 #Bot token
-token: 
+token:
 #Bot client_id
-client: 
-prefix: 
+client:
+prefix:
 role_username:
- - name: 
-   num: 
+ - name:
+   num:
